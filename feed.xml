@@ -1,2 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-22T20:43:57-08:00</updated><id>http://localhost:4000/</id><title type="html">Mauricio Maigre</title><subtitle>Software Developer
-</subtitle><entry><title type="html">Project #1</title><link href="http://localhost:4000/projects/2017/02/22/firstproject.html" rel="alternate" type="text/html" title="Project #1" /><published>2017-02-22T18:16:37-08:00</published><updated>2017-02-22T18:16:37-08:00</updated><id>http://localhost:4000/projects/2017/02/22/firstproject</id><content type="html" xml:base="http://localhost:4000/projects/2017/02/22/firstproject.html">&lt;p&gt;First project&lt;/p&gt;</content><author><name></name></author><summary type="html">First project</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-23T22:39:57-08:00</updated><id>http://localhost:4000/</id><title type="html">Mauricio Maigre</title><subtitle>Software Developer
+</subtitle><entry><title type="html">SAON</title><link href="http://localhost:4000/projects/2017/02/22/saon.html" rel="alternate" type="text/html" title="SAON" /><published>2017-02-22T00:00:00-08:00</published><updated>2017-02-22T00:00:00-08:00</updated><id>http://localhost:4000/projects/2017/02/22/saon</id><content type="html" xml:base="http://localhost:4000/projects/2017/02/22/saon.html">&lt;h3&gt;Description&lt;/h3&gt;
+&lt;p&gt;SAON is a Barber Shop Management Software.
+It is a full-fledged management software ranging from
+creating stores, franchises, services, products, coupons, etc.&lt;/p&gt;
+
+&lt;p&gt;An appointment system was created that is able to be injected in any
+website, it can schedule services to employees or at available times,
+as well as a sales statistics with dynamic charts that reflects on product
+and service sales and employee statistics.&lt;/p&gt;
+
+&lt;p&gt;It includes a cash register/checkout system where employees can check-in
+and perform to-be-done appointments as well as selling products, among many 
+other features.&lt;/p&gt;
+
+&lt;h3&gt;Technologies used&lt;/h3&gt;
+&lt;p&gt;HTML/CSS/Javascript, AngularJS 1.x, Materialize, Firebase, jQuery and other libraries.&lt;/p&gt;
+
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+
+&lt;div class=&quot;image-slider&quot;&gt;
+    &lt;div&gt;&lt;img src=&quot;/assets/boxers1.png&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;/assets/boxers2.png&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;/assets/boxers3.png&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img src=&quot;/assets/boxers4.png&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.image-slider div{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+&lt;/style&gt;</content><author><name></name></author><summary type="html">Description SAON is a Barber Shop Management Software. It is a full-fledged management software ranging from creating stores, franchises, services, products, coupons, etc.</summary></entry><entry><title type="html">GymAccess</title><link href="http://localhost:4000/projects/2016/03/23/gymaccess.html" rel="alternate" type="text/html" title="GymAccess" /><published>2016-03-23T03:20:00-07:00</published><updated>2016-03-23T03:20:00-07:00</updated><id>http://localhost:4000/projects/2016/03/23/gymaccess</id><content type="html" xml:base="http://localhost:4000/projects/2016/03/23/gymaccess.html">&lt;p&gt;First project&lt;/p&gt;</content><author><name></name></author><summary type="html">First project</summary></entry></feed>

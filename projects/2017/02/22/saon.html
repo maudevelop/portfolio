@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Projects</title>
-  <meta name="description" content="Software Developer">
+  <title>SAON</title>
+  <meta name="description" content="Description SAON is a Barber Shop Management Software. It is a full-fledged management software ranging from creating stores, franchises, services, products,...">
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/portfolio.html">
+  <link rel="canonical" href="http://localhost:4000/projects/2017/02/22/saon.html">
   <link rel="alternate" type="application/rss+xml" title="Mauricio Maigre" href="/feed.xml">
   
   
@@ -65,26 +65,81 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css">
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 
-  <h1 class="post-title">Projects</h1>
+<script>
+$(document).ready(function(){
+    $('.image-slider').slick({
+        dots: true,
+  infinite: false,
+  speed: 300,
+  slidesToShow: 2,
+  slidesToScroll: 2,
+  responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        infinite: true,
+        dots: true
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+        }
+    }]
+    });
+});
 
-  
-  <div style="margin: 35px auto; text-align: center;">
-    
-    <a style="text-align: center; position: relative; margin-right: 55px; background-position-x: 50%; background-position-y: 100%; background-image: url('/assets/saon.png'); background-repeat: no-repeat;  display: inline-block; width: auto; height: 82px;" href="/projects/2017/02/22/saon.html">
-      SAON
-    </a>
-    
-    <a style="text-align: center; position: relative; margin-right: 55px; background-position-x: 50%; background-position-y: 100%; background-image: url('/assets/gymaccess.png'); background-repeat: no-repeat;  display: inline-block; width: auto; height: 82px;" href="/projects/2016/03/23/gymaccess.html">
-      GymAccess
-    </a>
-    
-  </div>
+</script>
 
-  
+<h3>Description</h3>
+<p>SAON is a Barber Shop Management Software.
+It is a full-fledged management software ranging from
+creating stores, franchises, services, products, coupons, etc.</p>
 
+<p>An appointment system was created that is able to be injected in any
+website, it can schedule services to employees or at available times,
+as well as a sales statistics with dynamic charts that reflects on product
+and service sales and employee statistics.</p>
+
+<p>It includes a cash register/checkout system where employees can check-in
+and perform to-be-done appointments as well as selling products, among many 
+other features.</p>
+
+<h3>Technologies used</h3>
+<p>HTML/CSS/Javascript, AngularJS 1.x, Materialize, Firebase, jQuery and other libraries.</p>
+
+<h3>Screenshots</h3>
+
+<div class="image-slider">
+    <div><img src="/assets/boxers1.png" /></div>
+    <div><img src="/assets/boxers2.png" /></div>
+    <div><img src="/assets/boxers3.png" /></div>
+    <div><img src="/assets/boxers4.png" /></div>
 </div>
+
+<style>
+.image-slider div{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+</style>
+
 
 
       </div>
