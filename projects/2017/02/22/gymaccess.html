@@ -76,8 +76,8 @@ $(document).ready(function(){
         dots: true,
   infinite: false,
   speed: 300,
-  slidesToShow: 2,
-  slidesToScroll: 2,
+  slidesToShow: 1,
+  slidesToScroll: 1,
   responsive: [
     {
       breakpoint: 1024,
@@ -135,6 +135,15 @@ all subscription data for every client.</p>
     margin-left: 10px;
     margin-right: 10px;
 }
+.slick-prev:before, .slick-next:before { font-family: "slick"; font-size: 40px; line-height: 1; color: black; opacity: 0.75; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }   
+
+.slick-prev:before { content: "‹"; }
+[dir="rtl"] .slick-prev:before { content: "›"; }
+
+[dir="rtl"] .slick-next { left: -10px; top: 70px; right: auto; }
+.slick-next:before { content: "›"; }
+[dir="rtl"] .slick-next:before { content: "‹"; }
+
 </style>
 
 

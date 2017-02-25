@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-24T22:07:24-08:00</updated><id>http://localhost:4000/</id><title type="html">Mauricio Maigre</title><subtitle>Software Developer
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-24T23:47:05-08:00</updated><id>http://localhost:4000/</id><title type="html">Mauricio Maigre</title><subtitle>Software Developer
 </subtitle><entry><title type="html">SAON</title><link href="http://localhost:4000/projects/2017/02/22/saon.html" rel="alternate" type="text/html" title="SAON" /><published>2017-02-22T00:00:00-08:00</published><updated>2017-02-22T00:00:00-08:00</updated><id>http://localhost:4000/projects/2017/02/22/saon</id><content type="html" xml:base="http://localhost:4000/projects/2017/02/22/saon.html">&lt;h3&gt;Description&lt;/h3&gt;
 &lt;p&gt;SAON is a Barber Shop Management Software.
 It is a full-fledged management software ranging from
@@ -30,6 +30,15 @@ other features.&lt;/p&gt;
     margin-left: 10px;
     margin-right: 10px;
 }
+.slick-prev:before, .slick-next:before { font-family: &quot;slick&quot;; font-size: 40px; line-height: 1; color: black; opacity: 0.75; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }   
+
+.slick-prev:before { content: &quot;‹&quot;; }
+[dir=&quot;rtl&quot;] .slick-prev:before { content: &quot;›&quot;; }
+
+[dir=&quot;rtl&quot;] .slick-next { left: -10px; top: 70px; right: auto; }
+.slick-next:before { content: &quot;›&quot;; }
+[dir=&quot;rtl&quot;] .slick-next:before { content: &quot;‹&quot;; }
+
 &lt;/style&gt;</content><author><name></name></author><summary type="html">Description SAON is a Barber Shop Management Software. It is a full-fledged management software ranging from creating stores, franchises, services, products, coupons, etc.</summary></entry><entry><title type="html">GymAccess</title><link href="http://localhost:4000/projects/2017/02/22/gymaccess.html" rel="alternate" type="text/html" title="GymAccess" /><published>2017-02-22T00:00:00-08:00</published><updated>2017-02-22T00:00:00-08:00</updated><id>http://localhost:4000/projects/2017/02/22/gymaccess</id><content type="html" xml:base="http://localhost:4000/projects/2017/02/22/gymaccess.html">&lt;h3&gt;Description&lt;/h3&gt;
 &lt;p&gt;GymAccess is a gym subscription system for a closed market of clients
 that are able to browse around franchises and purchase a monthly (or set custom) subscription
@@ -58,4 +67,13 @@ all subscription data for every client.&lt;/p&gt;
     margin-left: 10px;
     margin-right: 10px;
 }
+.slick-prev:before, .slick-next:before { font-family: &quot;slick&quot;; font-size: 40px; line-height: 1; color: black; opacity: 0.75; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }   
+
+.slick-prev:before { content: &quot;‹&quot;; }
+[dir=&quot;rtl&quot;] .slick-prev:before { content: &quot;›&quot;; }
+
+[dir=&quot;rtl&quot;] .slick-next { left: -10px; top: 70px; right: auto; }
+.slick-next:before { content: &quot;›&quot;; }
+[dir=&quot;rtl&quot;] .slick-next:before { content: &quot;‹&quot;; }
+
 &lt;/style&gt;</content><author><name></name></author><summary type="html">Description GymAccess is a gym subscription system for a closed market of clients that are able to browse around franchises and purchase a monthly (or set custom) subscription to be able to access different gym locations around the country.</summary></entry></feed>
